@@ -1,0 +1,10 @@
+.contactContainer_light{
+    background-color: #fff;
+    border-radius: 20px;
+}
+
+.contactContainer_dark{
+    background-color: #262b30;
+    color: #fff;
+    border-radius: 20px;
+}

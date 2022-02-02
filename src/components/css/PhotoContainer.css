@@ -1,0 +1,19 @@
+.carouselImage{
+    height: 900px;
+}
+
+.photoContainer_light{
+    background-color: #fff;
+    border-radius: 20px;
+    height: 1000px;
+}
+
+.photoContainer_dark{
+    background-color: #262b30;
+    border-radius: 20px;
+    height: 1000px;
+}
+
+.photoCarousel{
+    padding-top: 50px;
+}

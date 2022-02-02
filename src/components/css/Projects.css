@@ -1,0 +1,25 @@
+.carouselimage{
+    height: 500px;
+}
+
+.photoContainer_light{
+    background-color: #fff;
+    color: #262b30;
+    border-radius: 20px;
+    height: 1000px;
+    text-align: center;
+    text-overflow: ellipsis;
+}
+
+.photoContainer_dark{
+    background-color: #262b30;
+    color: #fff;
+    border-radius: 20px;
+    height: 1000px;
+    text-align: center;
+    text-overflow: ellipsis;
+}
+
+.photoCarousel{
+    padding-top: 50px;
+}

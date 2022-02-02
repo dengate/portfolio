@@ -1,0 +1,14 @@
+.information{
+    text-align: center;
+}
+
+.informationContainer_light{
+    background-color: #fff;
+    border-radius: 20px;
+}
+
+.informationContainer_dark{
+    background-color: #262b30;
+    color: #fff;
+    border-radius: 20px;
+}
